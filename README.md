@@ -1,2 +1,2 @@
-# coursera
-This is a Coursera project
+# This is the beginning
+Enjoy
